@@ -1,1 +1,1 @@
-# easypkg.github.io
+# http://easypkg.github.io
