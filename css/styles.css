@@ -1,0 +1,84 @@
+/*
+CSS - Easy Parking
+
+*/
+
+body{
+}
+
+
+.topo{
+	background: url('../images/bg-topo.jpg') center center;
+	background-size: cover;
+	height: 100vh;
+	
+}
+
+.bgMenu{
+	background: rgba(31,33,98,0.8);
+}
+
+.menu{
+	color: #fff;
+}
+.menu ul li a{
+	color: #fff;
+}
+.bgBotao{
+	color: #fff;
+	background: #1c25cc;
+	border: none;
+}
+
+.bgBotaoEscuro{
+	color: #fff;
+	background: #12177f;
+	border: none;
+	
+}
+
+.bgBotaoEscuro:hover{
+	background: #030863;
+}
+
+.bgBotao:hover{
+	background:#050b7d;
+}
+
+@media (max-width: 767px){
+
+  body{
+    padding-top:0px;
+  }
+  .fixed-top{
+    position: relative;
+  }
+
+}
+
+.sobre{
+    background: #1c25cc;
+	
+}
+
+.line{
+	width: 113px;
+	height: 4px;
+	background: white;
+}
+
+.tituloAzul{
+	color: #12177f;
+}
+.lineAzul{
+	width: 113px;
+	height: 4px;
+	background: #12177f;
+}
+
+.nomes{
+	color: #9c9c9c;
+}
+.rodape{
+	background: #1c25cc;
+}
